@@ -6,7 +6,7 @@ metadata:
 spec:
   type: grpc
   lifecycle: deprecated
-  owner: Cx-DevOps
+  owner: cx-devops
   definition: |
     // Copyright 2015 gRPC authors.
     //
